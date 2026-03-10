@@ -1,4 +1,4 @@
-### MST-Based Medical Image Analysis
+# MST-Based Medical Image Analysis
 Overview:
 This project implements a graph-theoretical approach to medical image processing, specifically focusing on MRI (Magnetic Resonance Imaging) scans. By treating an image as a graph and finding a Minimum Spanning Tree (MST), the algorithm partitions the image into meaningful anatomical regions while simultaneously reducing noise.
 
